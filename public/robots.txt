@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://krushal16.github.io/sitemap.xml
