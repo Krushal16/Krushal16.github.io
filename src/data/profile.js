@@ -21,7 +21,7 @@ export const profile = {
 
   // Optional portrait: add public/profile.jpg (4:5, at least 800×1000), then set photo: 'profile.jpg'.
   // While this is null the hero shows a monogram instead.
-  photo: null,
+  photo: 'profile.jpg',
 
   availability: {
     short: 'Open to a Winter 2027 co-op',
